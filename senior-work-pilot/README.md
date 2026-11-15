@@ -15,7 +15,7 @@ The script materializes a byte-pinned local source snapshot if absent, then writ
 Course shared source: https://huggingface.co/datasets/DKU-STATS201-Autumn2026/pacbench-QL/tree/c14b0f79dbb7dddb3ee1c21fb1280091a30d233f
 Upstream: https://huggingface.co/datasets/lens-lab/pacbench
 Personal copy: https://huggingface.co/datasets/YuanjunDu/pacbench-QL/tree/8905a9701f1f492fe2ccd0cea5018e503272df6e
-The source CSV was retained on 2026-11-07; SHA-256 b9da6d6f7e7902c55523291b0c256734f9c9a37cae66a5c75adbf6efccac87c8. It has not been byte-matched to the pinned remote snapshot in this session. Repository commit history identifies the exact code revision. The derived per-category release card is prepared locally; do not assume that it has been published on HF.
+The source CSV was retained on 2026-11-07; SHA-256 b9da6d6f7e7902c55523291b0c256734f9c9a37cae66a5c75adbf6efccac87c8. It is byte-identical to ground_truth/Affordance.csv in the pinned course snapshot (checked 2026-11-15). Repository commit history identifies the exact code revision.
 
 ## Rights and limitations
 Upstream HF card declares MIT. No photographs are redistributed by this pilot. Category annotations are not image-level negatives, complete affordance lists, actual robot outcomes or observed firm accounts. Review upstream component rights before enlarging the release.
